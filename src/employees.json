@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Mike",
+    "team": "Sales",
+    "tenure": 3,
+    "email": "Mike@mail.com",
+    "occupation": "Salesperson",
+    "location": "New York City"
+  },
+  {
+    "id": 2,
+    "name": "Joe",
+    "team": "Finance",
+    "tenure": 20,
+    "email": "Joe@mail.com",
+    "occupation": "Accountant",
+    "location": "Pennsylvania"
+  },
+  {
+    "id": 3,
+    "name": "Bill",
+    "team": "Engineering",
+    "tenure": 15,
+    "email": "Bill@mail.com",
+    "occupation": "Engineer",
+    "location": "Seattle"
+  },
+  {
+    "id": 4,
+    "name": "Christina",
+    "team": "Quality",
+    "tenure": 5,
+    "email": "Christina@mail.com",
+    "occupation": "Quality Assurance Engineer",
+    "location": "Seattle"
+  },
+  {
+    "id": 5,
+    "name": "Caitlin",
+    "team": "HR",
+    "tenure": 1,
+    "email": "Caitlin@mail.com",
+    "occupation": "Personeel Coordinator",
+    "location": "Lynnwood"
+  },
+  {
+    "id": 6,
+    "name": "Alex",
+    "team": "Engineering",
+    "tenure": 3,
+    "email": "Alex@mail.com",
+    "occupation": "Engineer Manager",
+    "location": "Redmond"
+  },
+  {
+    "id": 7,
+    "name": "Ben",
+    "team": "Sales",
+    "tenure": 4,
+    "email": "Ben@mail.com",
+    "occupation": "Sales Manager",
+    "location": "Seattle"
+  },
+  {
+    "id": 8,
+    "name": "Todd",
+    "team": "Operations",
+    "tenure": 20,
+    "email": "Todd@mail.com",
+    "occupation": "Planner",
+    "location": "Redmond"
+  },
+  {
+    "id": 9,
+    "name": "Matt",
+    "team": "Operations",
+    "tenure": 7,
+    "email": "Matt@mail.com",
+    "occupation": "Operationg Director",
+    "location": "Redmond"
+  },
+  {
+    "id": 10,
+    "name": "Erica",
+    "team": "Supply Chain",
+    "tenure": 2,
+    "email": "Erica@mail.com",
+    "occupation": "Buyer",
+    "location": "Lynnwood"
+  },
+  {
+    "id": 11,
+    "name": "Herman",
+    "team": "Engineering",
+    "tenure": 30,
+    "email": "Herman@mail.com",
+    "occupation": "Software Engineer",
+    "location": "Seattle"
+  },
+  {
+    "id": 12,
+    "name": "Danny",
+    "team": "Facilities",
+    "tenure": 12,
+    "email": "Danny@mail.com",
+    "occupation": "Manager",
+    "location": "Lynnwood"
+  }
+]
